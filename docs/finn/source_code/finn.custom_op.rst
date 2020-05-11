@@ -21,8 +21,24 @@ Base Class
    :undoc-members:
    :show-inheritance:
 
+finn.custom\_op.im2col
+-----------------------------
+
+.. automodule:: finn.custom_op.im2col
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+finn.custom\_op.maxpoolnhwc
+----------------------------------
+
+.. automodule:: finn.custom_op.maxpoolnhwc
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 finn.custom\_op.multithreshold
-------------------------------
+-------------------------------------
 
 .. automodule:: finn.custom_op.multithreshold
    :members:
@@ -30,7 +46,7 @@ finn.custom\_op.multithreshold
    :show-inheritance:
 
 finn.custom\_op.registry
-------------------------
+-------------------------------
 
 .. automodule:: finn.custom_op.registry
    :members:
@@ -38,7 +54,7 @@ finn.custom\_op.registry
    :show-inheritance:
 
 finn.custom\_op.streamingdataflowpartition
-------------------------------------------
+-------------------------------------------------
 
 .. automodule:: finn.custom_op.streamingdataflowpartition
    :members:
@@ -46,10 +62,9 @@ finn.custom\_op.streamingdataflowpartition
    :show-inheritance:
 
 finn.custom\_op.xnorpopcount
-----------------------------
+-----------------------------------
 
 .. automodule:: finn.custom_op.xnorpopcount
    :members:
    :undoc-members:
    :show-inheritance:
-
